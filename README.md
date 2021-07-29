@@ -1,0 +1,2 @@
+An nice intro to streamlit that makes life a whole lot easier to deploy ML learns.
+in this mini-project are implemented some apps used for the prediction on some well known ML datasets using different algorithms and also choosing various hyper-parameters.
